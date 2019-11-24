@@ -1,0 +1,8 @@
+low-memory consumption implementation
+use fgetc and buf[3]
+each fgetc do memcmp(buf, magic)
+on mismatch - shift buf to left
+0 <- 1, 1 <- 2, 2 <- fgetc
+start with fread(3) to buf
+
+python or c# implementation for windows

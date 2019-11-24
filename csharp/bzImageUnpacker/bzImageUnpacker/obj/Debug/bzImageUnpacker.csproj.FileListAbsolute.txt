@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\bzImageUnpacker\bzImageUnpacker\bin\Debug\bzImageUnpacker.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\bzImageUnpacker\bzImageUnpacker\bin\Debug\bzImageUnpacker.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\bzImageUnpacker\bzImageUnpacker\bin\Debug\bzImageUnpacker.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\bzImageUnpacker\bzImageUnpacker\obj\Debug\bzImageUnpacker.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\bzImageUnpacker\bzImageUnpacker\obj\Debug\bzImageUnpacker.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\bzImageUnpacker\bzImageUnpacker\obj\Debug\bzImageUnpacker.pdb
